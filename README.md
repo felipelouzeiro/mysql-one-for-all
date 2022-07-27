@@ -1,7 +1,5 @@
 # Boas vindas ao repositório do projeto One For All!
 
-uest para colocar seus códigos.
-
 ---
 
 # SUMÁRIO
